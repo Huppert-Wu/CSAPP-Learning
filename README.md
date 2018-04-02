@@ -4,4 +4,4 @@ self-study csapp
 
 finished:
 
-datalab bomblab attacklab shlab
+datalab bomblab attacklab shlab malloclab
